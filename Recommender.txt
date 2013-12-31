@@ -75,7 +75,7 @@ store top3 into 'topsongs' using PigStorage(',','-schema');
 
 
 
--- Making Recommendations (Using Recommenderlab from R method )
+-- Making Recommendations (Based on R Recommenderlab Predict method )
 
 -- To pass a new data set apart from the model - pass it to userout
 
