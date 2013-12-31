@@ -1,7 +1,7 @@
 
 
 -- Recommender system based on Jaccard similarity 
--- This porgram considers the rating data as Binary 1/0 and uses Item based collaborative filtering
+-- This porgram considers the rating data as Binary 1/0 and uses Item based collaborative filtering to Recommend Top 3 Items
 -- With actual ratings Pearson correlation and other similarities can be used
 
 -- Load the data
