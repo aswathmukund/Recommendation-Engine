@@ -1,7 +1,8 @@
 
 
--- Recommender system based on Jaccard similarity when actual rating is not available. If actual rating is available use Pearson correlation
-
+-- Recommender system based on Jaccard similarity 
+-- This porgram considers the rating data as Binary 1/0 and uses Item based collaborative filtering
+-- With actual ratings Pearson correlation and other similarities can be used
 
 -- Load the data
 ratings = LOAD 'data.csv' USING PigStorage(',') AS (user_id:int, movie_id:int, rating:int) ;
