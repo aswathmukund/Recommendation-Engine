@@ -1,4 +1,4 @@
-Recommendation-Engine
+Recommender Systems
 =====================
 
-Recommendation Engine using hadoop (Apache Pig) , R
+Recommender Systems using hadoop (Apache Pig) , R
