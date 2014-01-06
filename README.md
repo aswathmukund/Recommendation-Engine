@@ -1,4 +1,4 @@
 Recommender Systems
 =====================
 
-Recommender Systems using hadoop (Apache Pig) , R
+Simple Recommender Systems using hadoop (Apache Pig) , R
